@@ -1,0 +1,2 @@
+kafka-python @ git+https://github.com/dpkp/kafka-python.git@89df9871b84843ad8b9dbd48d5b8d11d06227acf
+pyspark==3.5.3
